@@ -60,7 +60,10 @@ export function Terminal() {
             <tr className={styles.tr}>
               <td>10/08/21</td>
               <td>18:30</td>
-              <td>Apresentação das Entidades Internas e Externas</td>
+              <td>
+                Apresentação das Entidades Internas e Externas e Integração com
+                calouros(as)
+              </td>
             </tr>
             <tr className={styles.tr}>
               <td>11/08/21</td>
